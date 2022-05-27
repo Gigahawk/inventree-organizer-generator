@@ -1,0 +1,15 @@
+meta:
+  name: Cabinet
+  description: 44 Drawer Plastic Storage Cabinet
+  suppliers:
+    - https://www.amazon.ca/dp/B003P2UOCO
+
+grids:
+  small:
+    prefix: S
+    rows: 4
+    columns: 8
+  large:
+    prefix: L
+    rows: 3
+    columns: 4

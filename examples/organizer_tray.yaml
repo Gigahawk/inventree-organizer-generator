@@ -1,0 +1,10 @@
+meta:
+  name: Tray
+  description: 8x7 grid organizer tray
+  suppliers:
+    - https://www.amazon.ca/gp/product/B087WK48F2
+
+grids:
+  main:
+    rows: 7
+    columns: 8
